@@ -9,9 +9,9 @@
 
 ## About Me
 - 🔭 Pursuing **Bachelor of Computer Applications**
-- 🌱 Exploring **Dart, Java, Python, and Machine Learning**
+- 🌱 Exploring **Python, docker, Kubernetes and DevOps**
 - 💡 Eager to collaborate on **innovative projects and hackathons**
-- ⚡ Fun fact: It once took me 2 days to reinstall Windows!
+- ⚡ Fun fact: DevOps was inspired by Toyota's lean manufacturing principles, emphasizing collaboration and continuous improvement! 🚀
 
 ## Skills
 <div class="grid grid-cols-6 gap-2">
