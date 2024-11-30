@@ -15,23 +15,20 @@
 
 ## Skills
 <div class="grid grid-cols-6 gap-2">
-  <img src="https://skillicons.dev/icons?i=Python" />
+  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=Docker" />
+  <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=maven" />
   <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=Kubernetes" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=VmWare" />
   <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=Bash" />
-  <img src="https://skillicons.dev/icons?i=DevOps" />
-  <img src="https://skillicons.dev/icons?i=AWS" />
-  <img src="https://skillicons.dev/icons?i=Azure" />
-  <img src="https://skillicons.dev/icons?i=Linux" />
-    <img src="https://skillicons.dev/icons?i=Ansible" />
+  <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=azure" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=ansible" />
 </div>
 
 ## GitHub Analytics
