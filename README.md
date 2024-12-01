@@ -46,7 +46,7 @@
   <a href="mailto:Ashutoshkumarsingh009@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/Ashutoshkumarsingh1405/">
+  <a href="(https://www.linkedin.com/in/ashutosh-kumar-singh-69a860213/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://your-portfolio-link.com">
